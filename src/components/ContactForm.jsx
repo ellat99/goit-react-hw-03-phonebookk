@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import ConstactForm from './ContactForm.module.css';
 
 class ContactForm extends Component {
   // setam starea initiala a componentei
